@@ -7,13 +7,18 @@ In the era of IOT, miniature home automation systems have become prevalent. Howe
 
 ## Block Diagram
 
-![Block Diagram](https://github.com/Grimmjaw6/Home-Monitoring-System/blob/master/BlockDiag.PNG)
-
-## Circuit Diagram
-
 ### Arduino
 
+![Block Diagram](https://github.com/Grimmjaw6/Home-Monitoring-System/blob/master/Block_Diag_Arduino.PNG)
 
+### Raspberry Pi
+
+![Block Diagram](https://github.com/Grimmjaw6/Home-Monitoring-System/blob/master/BlockDiag.PNG)
+
+
+
+
+## Circuit Diagram
 
 ### RaspberryPi
 
