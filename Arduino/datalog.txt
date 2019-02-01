@@ -1,0 +1,652 @@
+Your IP Adress is 10.20.16.90
+9/7/2018, 8:35:51 PM
+Temperature in C: 26.00	9/7/2018, 8:35:51 PM	
+Temperature in F: 78.80	9/7/2018, 8:35:51 PM
+Heat index in F: 78.82 9/7/2018, 8:35:51 PM
+Heat index in C: 26.01 9/7/2018, 8:35:51 PM
+Distance: 283 9/7/2018, 8:35:51 PM
+Temperature in C: 26.00 9/7/2018, 8:35:51 PM
+Temperature in F: 78.80 9/7/2018, 8:35:51 PM
+Heat index in F: 78.82 9/7/2018, 8:35:51 PM
+Heat index in C: 26.01 9/7/2018, 8:35:51 PM
+Distance: 357 9/7/2018, 8:35:51 PM
+Temperature in C: 26.00 9/7/2018, 8:35:51 PM
+Temperature in F: 78.80 9/7/2018, 8:35:51 PM
+Heat index in F: 78.82 9/7/2018, 8:35:51 PM
+Heat index in C: 26.01 9/7/2018, 8:35:51 PM
+Distance: 281 9/7/2018, 8:35:51 PM
+Temperature in C: 26.00 9/7/2018, 8:35:51 PM
+Temperature in F: 78.80 9/7/2018, 8:35:51 PM
+Heat index in F: 78.82 9/7/2018, 8:35:51 PM 
+Heat index in C: 26.01
+Distance: 282
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 282
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 283
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 338
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 282
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 339
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 32
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion detected!
+Distance: 340
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 339
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 30
+9/7/2018, 8:35:52 PM
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 11
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 27
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 15
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 2563
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 2576
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 9
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 11
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 7
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Distance: 30
+9/7/2018, 8:35:53 PM
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!
+9/7/2018, 8:35:54 PM
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!
+9/7/2018, 8:35:55 PM
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!
+9/7/2018, 8:35:56 PM
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!
+9/7/2018, 8:35:57 PM
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!
+9/7/2018, 8:35:58 PM
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!
+9/7/2018, 8:35:59 PM
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 6
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Ended!Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 10
+Motion Detected!
+Level ReachedDistance: 19
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion ended!
+Level ReachedDistance: 5
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Motion Detected!
+Level ReachedDistance: 13
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 13
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 5
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
+Level ReachedDistance: 19
+9/7/2018, 8:36:00 PM
+Temperature in C: 26.00
+Temperature in F: 78.80
+Heat index in F: 78.82
+Heat index in C: 26.01
